@@ -1,0 +1,19 @@
+import string
+
+s = "hello"
+print(s.upper())
+print(s.lower())
+print(s.capitalize())
+print(s.__class__)
+print(s.isascii())
+
+
+g = "hello world"
+print(g.capitalize())
+print(g.title())
+
+h = " hello "
+print(h)
+print(h.lstrip())
+print(g.rstrip())
+print(h.rfind(h))

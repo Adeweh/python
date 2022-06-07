@@ -1,11 +1,5 @@
-counter = 1
-largest = 0
+for i in range(0, 10):
+    number = int(input("Enter numbers: "))
 
-while counter <= 10:
 
-    number = int(input("Enter an integer: "))
-
-    if number > largest:
-        largest = number
-
-        print("The Largest Integer is ", largest)
+print("The Largest Integer is ", max(number))

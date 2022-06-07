@@ -1,5 +1,5 @@
-firstNumber = int(input("Enter a number"))
-secondNumber = int(input("Enter another number"))
+firstNumber = int(input("Enter a number: "))
+secondNumber = int(input("Enter another number: "))
 if firstNumber >= secondNumber:
     largest = firstNumber
 else:

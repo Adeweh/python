@@ -14,11 +14,11 @@ while accountNumber != -1:
 
     newBalance = beginningBalance + totalCharges - totalCredit
 
-    print("The new balance is: %d%n", newBalance)
+    print("The new balance is: ", newBalance)
 
 if newBalance > allowedCredit:
     print("Credit Limit Exceeded.")
 
-    accountNumber = eval(input("Enter customer's charge account or -1 to quit:  "))
+    # accountNumber = eval(input("Enter customer's charge account or -1 to quit:  "))
 
 

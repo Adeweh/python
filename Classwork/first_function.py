@@ -14,5 +14,5 @@ print(fahrenheit)
 
 help(celsius_to_fahrenheit)
 
-
-
+txt = ["Hello", "World "]
+print(txt.insert(1, 'lemon'))

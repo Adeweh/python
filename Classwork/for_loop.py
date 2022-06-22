@@ -28,3 +28,5 @@ for each_item in items:
 print(total)
 print(sum(items))
 
+
+

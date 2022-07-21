@@ -1,4 +1,5 @@
 def twoSum(nums: list, value: int) -> list:
+    """ A method that adds two int together and returns a list  """
     for i in range(len(nums)):
         for j in range(i + 1, len(nums)):
             if nums[i] + nums[j] == value:
@@ -31,3 +32,4 @@ value = 6
 print(twoSum(lst, value))
 print(two_sum(lst, value))
 print(two_s(lst, value))
+help(twoSum)

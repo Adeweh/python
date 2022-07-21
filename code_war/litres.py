@@ -2,8 +2,12 @@
 #
 # Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per hour of cycling.
 #
+<<<<<<< HEAD
 # You get given the time in hours, and you need to return the number of litres Nathan will drink, rounded to the
 # smallest value.
+=======
+# You get given the time in hours and you need to return the number of litres Nathan will drink, rounded to the smallest value.
+>>>>>>> origin/main
 #
 # For example:
 #

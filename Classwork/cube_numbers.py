@@ -4,3 +4,6 @@ def cube(num: int) -> int:
 
 cubes = [cube(i) for i in range(1, 11)]
 print(cubes)
+
+
+print('*' * 10)

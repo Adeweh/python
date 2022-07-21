@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Abang Dorcas",
+        "is married": true,
+        "age": 45
+    },
+    {
+        "name": "John Doe",
+        "is married": false,
+        "age": 15
+    }
+]
